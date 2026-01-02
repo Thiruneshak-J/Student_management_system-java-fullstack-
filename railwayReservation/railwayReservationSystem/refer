@@ -1,0 +1,11 @@
+1st---> create public class
+
+2nd---> create private variables
+
+3rd---> create constructor with (variables paraaters)  #train(){}
+          {define with THIS keyword}
+
+4th--->create methods based on questions
+
+5th----> get the variable and return
+      ex:public String gett_name(){ return t_name; }
